@@ -43,6 +43,8 @@
 ### 🧪 **Global Solutions FIAP**
 
 > Participei de 12 desafios técnicos simulando incidentes reais de segurança. Desenvolvi soluções com Python, quebrei hashes, analisei imagens esteganográficas, pacotes `.pcap` e interpretei códigos em linguagens como **Brainfuck**.
+Relatório Global Solutions 2024: [Relatório Global Solutions Jaederson Madeira (1).pdf](https://github.com/user-attachments/files/20107548/Relatorio.Global.Solutions.Jaederson.Madeira.1.pdf)
+
 
 #### Principais tarefas:
 - 🔓 Quebra de SHA-512, Cisco Type 7
