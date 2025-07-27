@@ -62,19 +62,26 @@ Relatório Global Solutions 2024: [Relatório Global Solutions Jaederson Madeira
 - ☁️ AWS Practitioner: *Cloud security e infraestrutura*
 
 ---
-
+## Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/> 
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kalilinux/kalilinux-original.svg" width="40"/> 
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40"/>
+          
+          
+          
 ## 🏆 Certificações & Conquistas | Certifications & Achievements
 
-- ✅ [TryHackMe – Jacamadeira1](https://tryhackme.com/p/Jacamadeira1)
+- ✅ [TryHackMe – AnakinCyber](https://tryhackme.com/p/AnakinCyber)
 - ✅ Certificados no [LinkedIn](https://www.linkedin.com/in/jaederson-madeira-b05014193/)
 - ✅ Curso: Ethical Hacking para Iniciantes (Udemy)
 - ✅ Cisco: Introdução à Segurança da Informação
 
 ---
 
-## 📬 Contato | Contact
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/jaederson-madeira-b05014193/)
+## Contatos:
+<div><a href="https://www.linkedin.com/in/jaederson-madeira-b05014193" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 - ✉️ Vamos conversar sobre cybersecurity, hacking ético e automação!
 
 ---
