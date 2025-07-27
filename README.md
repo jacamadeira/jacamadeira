@@ -56,7 +56,7 @@ Relatório Global Solutions 2024: [Relatório Global Solutions Jaederson Madeira
 
 ## 📚 Atualmente Estudando | Currently Studying
 
-- 🎯 TryHackMe: *Jr. Penetration Tester Path*
+- 🎯LetsDefend: *SOC Analyst Learning Path*
 - 💻 Hack The Box: *Vulnerability Labs*
 - 📘 CompTIA Security+: *Fundamentos e mitigação de ameaças*
 - ☁️ AWS Practitioner: *Cloud security e infraestrutura*
@@ -74,8 +74,6 @@ Relatório Global Solutions 2024: [Relatório Global Solutions Jaederson Madeira
 
 - ✅ [TryHackMe – AnakinCyber](https://tryhackme.com/p/AnakinCyber)
 - ✅ Certificados no [LinkedIn](https://www.linkedin.com/in/jaederson-madeira-b05014193/)
-- ✅ Curso: Ethical Hacking para Iniciantes (Udemy)
-- ✅ Cisco: Introdução à Segurança da Informação
 
 ---
 
