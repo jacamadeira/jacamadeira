@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Jaederson Madeira</h1>
 <p align="center">
   <strong>Cybersecurity Student | Ethical Hacking Enthusiast | Python Automation</strong><br>
-  <a href="www.linkedin.com/in/jaedersonmadeira">🌐 LinkedIn</a> | 
+  <a href="https://www.linkedin.com/in/jaedersonmadeira/">🪐 Linkedin</a>
   <a href="https://tryhackme.com/p/Jacamadeira1">🔐 TryHackMe</a>
 </p>
 
